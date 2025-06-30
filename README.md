@@ -1,6 +1,5 @@
 ﻿# Reverse-The-Number
 
-Sure! Let's walk through the logic of the C++ program that reverses a number:
 
 ---
 
@@ -70,4 +69,3 @@ cout << rev << endl;
 * Leading zeros in the original number (like in `1200`) are **ignored** in output (e.g., becomes `21`).
 * Works only for **positive integers** as written.
 
-Let me know if you'd like it to handle [negative numbers](f) or [very large numbers using strings](f).
