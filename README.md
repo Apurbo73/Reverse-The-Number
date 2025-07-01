@@ -1,4 +1,4 @@
-### Reverse-The-Number
+### Reverse The Number
 
 
 ---
